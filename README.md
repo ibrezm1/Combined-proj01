@@ -47,3 +47,4 @@ Response
 * More help [here](https://github.com/okta/okta-signin-widget#spa-application) and [here](https://devforum.okta.com/t/custom-login-using-pkce-flow/7697/2)
 * Flow is first to get the sessiontoken and then PKCE flow to get the access token , more details on the authorise endpoint [here](https://developer.okta.com/docs/reference/api/oidc/#authorize) 
 * Use accesstoken [here](https://developer.okta.com/blog/2020/08/07/spring-boot-remote-vs-local-tokens)
+* 10 mins [widget](https://developer.okta.com/blog/2018/06/08/add-authentication-to-any-web-page-in-10-minutes)
