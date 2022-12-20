@@ -49,3 +49,4 @@ Response
 * Use accesstoken [here](https://developer.okta.com/blog/2020/08/07/spring-boot-remote-vs-local-tokens) more details on [verify access token](https://developer.okta.com/docs/guides/validate-access-tokens/java/main/)
 * 10 mins [widget](https://developer.okta.com/blog/2018/06/08/add-authentication-to-any-web-page-in-10-minutes)
 * Claims permisssions and scope in access token [here](https://auth0.com/docs/secure/tokens/access-tokens/validate-access-tokens)
+* Udemy Angular + springboot + Okta [here](https://tcsglobal.udemy.com/course/full-stack-angular-spring-boot-tutorial/learn/lecture/13616930#overview)
